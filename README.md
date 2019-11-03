@@ -1,0 +1,2 @@
+# -errors-code-PMT-5000-type-transaction_declined-
+{    "errors":[       {          "code":"PMT-5000",          "type":"transaction_declined",          "message":"The request to process this transaction has been declined.",          "moreInfo":"This capture transaction could not be processed because it has exceeded the allowed authorization to capture amount difference.",          "infoLink":"https://developer.intuit.com/v2/docs...ctID=PayErrors"       }    ] }
